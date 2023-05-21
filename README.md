@@ -1,4 +1,3 @@
-```markdown
 # TabularStats
 
 TabularStats is a Python package that provides descriptive analysis functionalities for tabular data from XLSX or CSV files. It is designed to help users gain insights into their data by calculating summary statistics, generating correlation matrices, identifying missing values, and retrieving unique values in specific columns.
